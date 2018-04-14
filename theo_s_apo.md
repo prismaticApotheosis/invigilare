@@ -9,9 +9,9 @@ Working in the anastamosis of Artificial Intelligence, Neuroscience, and Ethics
 A Mathematical Theory of Learned Behavior
 ## Current Thesis:
 Theory of Asymmetric Cooperative Games
-## Model of Study
+## Model of Study:
 The video game Overwatch
-## Mathematical Muses
+## Mathematical Muses:
 Bertrand Russell
 
 Kurt Gödel
